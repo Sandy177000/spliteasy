@@ -1,6 +1,6 @@
-[submodule "spliteasy-backend"]
-	path = spliteasy-backend
-	url = https://github.com/Sandy177000/spliteasy-backend
 [submodule "spliteasy-frontend"]
 	path = spliteasy-frontend
 	url = https://github.com/Sandy177000/spliteasy-frontend
+[submodule "spliteasy-backend"]
+	path = spliteasy-backend
+	url = https://github.com/Sandy177000/spliteasy-backend
